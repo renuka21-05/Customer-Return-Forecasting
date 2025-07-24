@@ -1,0 +1,501 @@
+product_category,price,delivery_days,customer_tier,is_cod,product_rating,is_returned,customer_location,return_reason,product_weight_grams,days_to_return
+Books,554.73,5,Silver,0,2.9,1,South,Changed Mind,155.5,7
+Beauty,843.81,3,Platinum,1,2.3,1,North,Late Delivery,2359.4,22
+Home,388.04,4,Platinum,1,3.4,0,West,None,1868.1,0
+Beauty,905.97,5,Platinum,0,1.6,1,South,Late Delivery,2129.0,26
+Beauty,450.28,4,Platinum,1,4.6,0,East,None,2530.6,0
+Clothing,109.75,2,Silver,1,4.3,1,North,Other,2428.2,27
+Home,914.84,2,Platinum,1,2.3,0,East,None,2886.7,0
+Home,182.16,1,Gold,1,4.8,1,North,Defective,1654.2,15
+Home,387.38,7,Platinum,1,4.3,0,West,None,1516.6,0
+Beauty,955.06,5,Bronze,0,3.7,0,West,None,1265.5,0
+Books,955.55,4,Platinum,1,1.5,0,Central,None,545.7,0
+Home,616.09,3,Silver,1,2.9,0,East,None,1760.6,0
+Beauty,668.65,2,Bronze,0,3.0,0,North,None,903.3,0
+Clothing,503.6,7,Silver,0,1.9,0,West,None,2771.8,0
+Books,363.89,2,Silver,0,1.3,0,South,None,1791.3,0
+Clothing,395.8,3,Bronze,1,4.1,0,West,None,1819.2,0
+Books,705.27,7,Silver,0,1.5,1,South,Changed Mind,1129.3,13
+Beauty,777.14,7,Silver,1,3.4,0,North,None,250.8,0
+Electronics,812.42,4,Platinum,1,4.7,0,West,None,192.1,0
+Books,810.66,4,Gold,0,4.5,0,West,None,1327.7,0
+Clothing,182.09,5,Silver,0,2.1,0,North,None,345.2,0
+Beauty,544.98,5,Silver,1,4.4,1,West,Late Delivery,1859.9,24
+Books,151.8,6,Silver,0,1.0,0,South,None,2654.8,0
+Electronics,594.58,6,Platinum,1,1.1,1,West,Defective,2660.5,21
+Electronics,497.38,1,Gold,0,3.4,1,East,Other,2011.2,8
+Home,898.93,2,Bronze,0,2.5,1,Central,Late Delivery,712.6,5
+Home,415.82,5,Platinum,0,2.5,0,South,None,2602.7,0
+Clothing,205.36,4,Platinum,1,3.3,1,East,Defective,2669.7,16
+Books,228.69,3,Gold,0,1.8,1,North,Late Delivery,670.3,4
+Books,785.36,4,Gold,1,1.8,0,South,None,2238.5,0
+Home,656.4,2,Platinum,1,2.9,0,Central,None,930.9,0
+Books,191.01,6,Bronze,1,4.0,0,Central,None,2427.7,0
+Books,175.7,4,Platinum,1,3.5,0,North,None,2992.0,0
+Electronics,730.87,1,Gold,0,2.2,0,North,None,187.1,0
+Home,165.49,2,Bronze,1,2.7,0,South,None,2702.4,0
+Beauty,839.67,6,Gold,1,1.7,0,West,None,1905.6,0
+Home,735.62,3,Bronze,0,1.3,0,North,None,2922.8,0
+Beauty,173.21,6,Silver,1,4.1,0,West,None,1448.5,0
+Electronics,176.35,7,Gold,0,2.1,0,East,None,2557.4,0
+Clothing,987.98,1,Gold,1,1.7,0,Central,None,280.9,0
+Books,436.84,2,Platinum,0,3.8,0,West,None,1072.3,0
+Electronics,433.58,3,Gold,1,3.5,0,Central,None,294.3,0
+Books,831.52,1,Gold,0,3.5,1,West,Late Delivery,2928.5,28
+Clothing,952.52,6,Silver,1,1.9,0,East,None,2469.2,0
+Clothing,987.4,1,Gold,1,1.9,0,North,None,2572.4,0
+Electronics,778.04,2,Silver,0,1.9,1,East,Defective,2820.1,29
+Clothing,438.63,5,Silver,0,1.7,0,North,None,346.8,0
+Beauty,175.15,1,Silver,0,3.6,0,North,None,1218.2,0
+Clothing,799.43,7,Silver,0,4.4,1,Central,Other,306.0,4
+Books,602.56,1,Bronze,1,3.9,1,East,Changed Mind,711.3,15
+Books,481.8,6,Platinum,1,4.2,0,West,None,765.2,0
+Books,915.72,6,Bronze,0,2.6,0,East,None,1460.4,0
+Books,200.08,3,Gold,1,3.6,1,Central,Wrong Item,878.8,19
+Beauty,543.36,6,Bronze,0,2.4,0,North,None,392.8,0
+Home,110.22,4,Bronze,0,3.1,0,Central,None,585.7,0
+Electronics,521.79,2,Gold,1,2.9,1,South,Defective,527.1,21
+Books,150.67,2,Gold,1,1.7,0,South,None,2921.9,0
+Clothing,206.94,5,Gold,1,2.5,0,West,None,2301.9,0
+Books,205.77,5,Bronze,1,4.9,0,Central,None,2906.5,0
+Clothing,684.29,2,Bronze,1,2.0,1,West,Wrong Item,1375.2,20
+Clothing,771.44,7,Gold,1,1.5,0,West,None,907.3,0
+Books,625.03,5,Platinum,1,2.7,0,South,None,2415.1,0
+Beauty,965.96,3,Platinum,0,4.2,0,West,None,1046.1,0
+Clothing,437.38,6,Silver,0,3.3,0,South,None,968.2,0
+Clothing,357.14,2,Gold,0,3.7,0,North,None,774.3,0
+Books,881.74,5,Silver,0,1.8,1,Central,Late Delivery,476.1,2
+Clothing,301.24,2,Platinum,0,3.5,0,West,None,843.7,0
+Clothing,966.9,4,Silver,1,2.3,0,South,None,1130.4,0
+Books,110.94,1,Gold,0,4.3,1,East,Other,2054.6,18
+Books,972.89,6,Gold,0,3.5,0,West,None,281.4,0
+Electronics,138.84,2,Gold,0,1.8,1,North,Wrong Item,710.5,22
+Beauty,902.03,1,Bronze,0,1.3,0,North,None,2446.2,0
+Beauty,574.93,5,Silver,0,1.2,0,East,None,526.1,0
+Clothing,993.67,1,Platinum,0,2.5,0,South,None,1093.7,0
+Beauty,166.42,6,Platinum,0,2.1,1,West,Changed Mind,2607.5,23
+Clothing,598.47,2,Platinum,1,3.6,0,South,None,549.3,0
+Electronics,972.37,4,Bronze,1,3.0,0,North,None,339.9,0
+Books,570.79,7,Bronze,0,2.1,0,South,None,1505.2,0
+Books,666.46,5,Gold,1,1.6,0,North,None,977.0,0
+Books,726.17,2,Platinum,1,1.5,0,South,None,1733.9,0
+Beauty,509.09,6,Bronze,1,4.5,1,East,Wrong Item,2431.0,4
+Electronics,664.8,5,Gold,1,2.0,0,Central,None,497.7,0
+Beauty,625.88,3,Platinum,0,3.6,1,East,Late Delivery,1784.0,20
+Beauty,911.04,1,Silver,1,4.2,0,East,None,1566.0,0
+Electronics,140.9,7,Gold,1,3.5,0,Central,None,517.8,0
+Electronics,352.87,6,Bronze,1,4.4,0,Central,None,1909.6,0
+Electronics,955.37,3,Bronze,0,2.6,0,West,None,893.6,0
+Electronics,901.24,2,Gold,0,4.8,1,West,Defective,1514.7,7
+Books,510.09,4,Gold,0,1.5,1,East,Changed Mind,338.6,19
+Home,658.12,5,Bronze,0,1.4,0,East,None,1432.8,0
+Home,349.64,1,Silver,0,3.6,0,North,None,988.7,0
+Electronics,269.31,5,Platinum,0,4.8,0,North,None,2484.9,0
+Home,517.33,7,Silver,0,4.2,1,West,Defective,265.2,20
+Home,418.02,2,Gold,1,1.3,0,West,None,1314.0,0
+Electronics,625.29,5,Silver,1,2.1,0,North,None,1429.5,0
+Home,169.96,1,Bronze,1,4.7,1,North,Defective,2202.5,25
+Beauty,976.96,2,Gold,0,2.0,0,South,None,1765.4,0
+Clothing,987.59,5,Platinum,0,4.1,0,South,None,2034.9,0
+Clothing,728.35,4,Bronze,0,4.3,0,North,None,2353.4,0
+Electronics,582.49,6,Bronze,0,3.0,1,South,Defective,2600.4,18
+Books,378.57,2,Platinum,0,2.5,0,Central,None,1010.2,0
+Electronics,832.42,6,Platinum,1,2.8,0,West,None,1660.3,0
+Books,716.26,2,Silver,1,1.9,0,West,None,2536.3,0
+Clothing,246.36,4,Gold,0,4.6,0,North,None,2969.4,0
+Electronics,919.83,6,Platinum,0,2.8,0,East,None,2679.6,0
+Beauty,840.28,3,Platinum,0,4.5,0,North,None,1177.3,0
+Home,954.82,1,Gold,0,1.4,0,South,None,666.0,0
+Books,753.15,3,Platinum,1,5.0,0,East,None,1519.2,0
+Home,652.07,5,Platinum,0,2.8,0,South,None,2250.8,0
+Home,476.42,4,Silver,0,1.2,0,Central,None,1528.5,0
+Electronics,939.46,3,Bronze,0,1.2,1,South,Late Delivery,1501.2,12
+Home,879.46,2,Bronze,0,4.0,0,Central,None,2530.9,0
+Beauty,140.7,5,Bronze,1,3.6,1,Central,Late Delivery,1148.1,13
+Home,123.73,5,Bronze,0,4.2,1,South,Wrong Item,2593.4,10
+Electronics,438.82,3,Platinum,0,1.4,0,South,None,1279.7,0
+Beauty,829.5,3,Gold,1,1.1,0,Central,None,1051.9,0
+Clothing,988.55,4,Gold,1,3.0,0,East,None,1416.6,0
+Home,235.38,1,Silver,1,2.6,0,Central,None,2311.1,0
+Electronics,634.72,3,Silver,0,2.8,0,West,None,465.4,0
+Clothing,442.8,7,Platinum,0,5.0,0,Central,None,669.6,0
+Clothing,972.92,3,Gold,1,4.9,0,East,None,2859.2,0
+Books,857.91,6,Gold,1,4.8,1,West,Wrong Item,608.9,25
+Beauty,854.5,2,Bronze,1,4.1,0,North,None,1746.4,0
+Home,521.82,7,Platinum,1,2.4,1,North,Other,1780.0,29
+Electronics,473.34,7,Platinum,1,2.6,0,East,None,1519.9,0
+Books,346.07,6,Bronze,1,3.2,1,Central,Other,1969.8,21
+Beauty,150.74,6,Platinum,0,4.3,0,South,None,766.5,0
+Books,878.25,5,Platinum,0,1.3,0,East,None,1702.7,0
+Beauty,831.61,1,Silver,0,2.7,0,West,None,1179.3,0
+Beauty,999.75,2,Gold,1,1.3,0,West,None,2018.8,0
+Home,996.97,4,Platinum,1,3.1,0,North,None,509.5,0
+Beauty,599.89,7,Silver,1,4.6,1,West,Wrong Item,1755.5,2
+Books,792.09,4,Gold,1,4.1,0,East,None,637.3,0
+Beauty,950.29,3,Bronze,1,1.9,0,West,None,908.1,0
+Home,864.68,3,Silver,1,4.9,1,East,Other,734.3,17
+Home,322.61,4,Silver,0,3.7,1,South,Other,630.2,16
+Books,505.49,3,Gold,0,1.0,0,North,None,2494.6,0
+Clothing,216.24,1,Bronze,1,2.0,0,West,None,928.6,0
+Clothing,958.65,6,Silver,0,2.0,0,East,None,2788.7,0
+Beauty,645.56,3,Platinum,1,1.3,0,Central,None,2912.8,0
+Electronics,305.78,5,Platinum,0,4.8,1,North,Other,1756.7,11
+Beauty,704.53,3,Platinum,1,2.9,1,South,Wrong Item,514.7,24
+Books,656.32,2,Bronze,1,4.6,1,East,Changed Mind,1186.2,1
+Books,422.35,1,Silver,0,2.3,1,South,Other,2413.4,11
+Books,202.2,2,Platinum,0,1.5,0,South,None,1165.4,0
+Books,704.42,2,Bronze,1,2.9,1,West,Changed Mind,352.3,21
+Books,568.28,5,Platinum,1,1.5,1,West,Changed Mind,1714.7,4
+Home,795.09,1,Gold,0,2.9,0,East,None,2550.9,0
+Clothing,568.15,1,Silver,0,4.7,1,Central,Other,2408.2,26
+Books,866.96,1,Silver,1,3.1,0,East,None,607.9,0
+Electronics,596.72,1,Bronze,0,3.5,0,Central,None,2051.0,0
+Electronics,604.84,1,Bronze,1,1.6,1,South,Late Delivery,739.5,12
+Electronics,888.99,5,Silver,1,1.2,0,North,None,732.8,0
+Electronics,463.13,3,Platinum,1,1.4,0,East,None,2634.8,0
+Home,220.61,2,Platinum,1,3.4,0,East,None,824.0,0
+Electronics,125.9,1,Gold,0,1.4,0,Central,None,863.4,0
+Books,779.62,7,Platinum,0,2.5,1,South,Other,101.9,1
+Beauty,658.28,3,Bronze,0,3.2,0,South,None,2624.9,0
+Electronics,733.67,3,Bronze,0,2.6,0,Central,None,2398.5,0
+Home,291.67,2,Platinum,0,1.7,1,South,Late Delivery,1919.3,21
+Home,222.73,5,Bronze,0,2.1,0,West,None,2275.8,0
+Electronics,113.09,4,Silver,0,4.7,0,North,None,540.9,0
+Beauty,415.53,4,Silver,1,3.7,0,East,None,1429.1,0
+Electronics,630.93,3,Platinum,0,3.0,1,North,Late Delivery,1118.5,10
+Home,453.02,6,Silver,0,1.1,0,East,None,372.0,0
+Clothing,493.73,6,Silver,1,5.0,0,West,None,1509.8,0
+Books,913.74,2,Gold,0,3.7,0,South,None,2770.1,0
+Home,413.43,4,Gold,0,2.3,0,Central,None,216.2,0
+Electronics,562.59,3,Silver,1,4.5,0,West,None,945.2,0
+Books,805.29,5,Platinum,0,2.0,0,North,None,701.9,0
+Electronics,456.89,4,Gold,0,3.2,0,Central,None,790.6,0
+Electronics,659.88,3,Bronze,0,3.5,1,South,Other,2734.5,18
+Clothing,876.13,3,Bronze,1,1.9,0,West,None,1457.4,0
+Books,954.57,1,Bronze,0,4.9,1,Central,Changed Mind,1452.3,11
+Books,232.37,5,Platinum,0,4.0,1,West,Other,2305.7,13
+Clothing,933.93,1,Silver,1,3.2,1,West,Changed Mind,548.0,3
+Home,542.9,2,Bronze,0,1.7,0,South,None,1513.1,0
+Electronics,332.42,1,Platinum,1,1.2,0,East,None,1347.0,0
+Beauty,513.22,7,Gold,1,2.3,0,Central,None,1831.0,0
+Electronics,982.03,1,Silver,0,4.0,0,South,None,2998.7,0
+Electronics,543.36,7,Gold,1,2.1,0,West,None,2331.4,0
+Home,395.88,4,Platinum,1,3.2,1,South,Changed Mind,1253.8,22
+Electronics,670.06,6,Bronze,0,3.9,1,East,Defective,2499.9,2
+Clothing,316.13,3,Bronze,1,1.4,0,Central,None,595.1,0
+Clothing,168.28,7,Platinum,1,3.7,0,East,None,188.3,0
+Books,215.99,5,Bronze,0,1.4,1,North,Other,692.9,2
+Beauty,215.24,1,Silver,0,4.9,0,Central,None,1087.2,0
+Electronics,236.71,7,Platinum,0,3.0,0,East,None,1580.7,0
+Electronics,224.94,5,Gold,1,1.6,1,West,Other,1883.9,20
+Home,676.79,6,Platinum,0,2.4,0,Central,None,2740.8,0
+Clothing,263.69,6,Silver,1,2.7,0,Central,None,1578.6,0
+Beauty,411.1,1,Silver,1,4.0,0,South,None,1553.7,0
+Books,907.11,2,Platinum,1,4.0,1,West,Other,245.7,29
+Clothing,526.57,1,Platinum,1,3.4,0,North,None,201.2,0
+Books,700.8,4,Bronze,1,1.4,0,East,None,1698.4,0
+Home,255.09,7,Silver,1,1.6,0,South,None,1370.7,0
+Home,273.06,3,Platinum,1,1.4,0,East,None,2533.6,0
+Electronics,136.78,2,Platinum,0,3.3,0,North,None,566.0,0
+Beauty,252.04,1,Silver,0,4.5,1,North,Wrong Item,172.4,13
+Books,350.73,5,Platinum,1,2.7,0,Central,None,1402.2,0
+Clothing,259.31,2,Bronze,1,1.6,1,North,Wrong Item,788.7,9
+Home,179.83,7,Silver,0,3.2,0,East,None,243.9,0
+Electronics,208.57,2,Bronze,1,4.2,0,West,None,2201.3,0
+Electronics,514.7,7,Bronze,0,4.0,0,West,None,423.6,0
+Books,285.7,1,Bronze,0,4.5,0,Central,None,1864.1,0
+Home,427.84,7,Bronze,0,2.1,0,East,None,915.0,0
+Beauty,553.08,2,Silver,1,1.8,0,East,None,603.1,0
+Home,721.36,5,Bronze,1,4.5,0,North,None,1201.3,0
+Books,135.38,6,Bronze,0,3.6,0,East,None,2424.2,0
+Books,819.47,2,Platinum,0,2.2,0,South,None,1237.1,0
+Home,665.11,7,Silver,0,4.0,1,North,Changed Mind,2277.2,20
+Books,173.58,6,Silver,0,4.3,1,South,Late Delivery,463.9,18
+Home,886.22,7,Gold,0,3.5,0,Central,None,2341.0,0
+Clothing,928.79,5,Silver,1,3.8,0,West,None,787.1,0
+Home,154.97,7,Silver,0,2.5,0,Central,None,2064.4,0
+Home,349.19,1,Gold,1,3.2,0,West,None,1740.8,0
+Books,825.58,3,Silver,0,3.1,0,Central,None,2794.5,0
+Books,773.43,2,Silver,1,4.4,1,East,Changed Mind,1223.2,26
+Electronics,266.07,3,Silver,1,4.4,0,South,None,291.9,0
+Electronics,288.41,7,Silver,1,4.3,0,West,None,155.6,0
+Clothing,433.42,5,Gold,1,1.0,1,North,Wrong Item,2497.9,12
+Electronics,536.07,2,Silver,1,4.0,0,South,None,1621.7,0
+Home,656.43,7,Silver,1,4.0,1,North,Other,2348.2,9
+Books,432.02,6,Gold,0,3.7,0,South,None,779.8,0
+Electronics,516.28,4,Platinum,1,4.0,0,South,None,1100.7,0
+Electronics,772.72,7,Bronze,0,4.4,0,Central,None,187.3,0
+Clothing,133.01,3,Platinum,1,2.9,0,West,None,2888.3,0
+Clothing,327.19,2,Gold,1,3.0,1,West,Defective,2036.8,25
+Home,742.01,3,Bronze,0,1.5,0,South,None,2806.3,0
+Books,905.69,2,Gold,1,2.5,1,East,Other,869.9,16
+Clothing,560.51,7,Gold,0,3.6,0,East,None,1873.2,0
+Electronics,578.9,1,Silver,0,4.1,0,North,None,2067.6,0
+Books,196.45,6,Bronze,0,1.9,0,North,None,1020.9,0
+Books,502.67,7,Silver,0,1.6,0,Central,None,2559.5,0
+Electronics,579.36,3,Bronze,1,3.7,1,South,Other,2846.8,1
+Clothing,318.22,4,Gold,1,1.0,0,North,None,2666.1,0
+Electronics,342.32,4,Gold,0,1.7,0,North,None,2243.3,0
+Books,439.56,5,Platinum,1,1.1,0,South,None,904.6,0
+Beauty,118.06,2,Bronze,1,1.7,0,Central,None,916.7,0
+Beauty,389.87,3,Silver,0,1.7,0,North,None,2893.7,0
+Home,290.3,5,Platinum,1,2.6,0,Central,None,129.8,0
+Electronics,394.75,3,Platinum,0,2.6,1,West,Changed Mind,2176.5,2
+Electronics,207.79,2,Platinum,0,4.5,0,Central,None,2148.1,0
+Home,901.47,7,Silver,1,3.0,0,East,None,1905.8,0
+Home,634.23,7,Platinum,1,3.9,0,East,None,2971.3,0
+Home,711.19,4,Silver,1,1.4,0,Central,None,1004.5,0
+Books,810.25,7,Platinum,0,1.9,1,East,Defective,1085.9,15
+Electronics,548.6,7,Silver,0,3.8,0,West,None,328.9,0
+Books,178.23,1,Gold,1,1.2,0,South,None,1384.1,0
+Home,583.4,4,Gold,1,2.9,0,East,None,857.0,0
+Electronics,628.16,5,Gold,1,3.4,0,East,None,1095.8,0
+Books,770.9,6,Gold,1,3.4,0,Central,None,2520.3,0
+Books,488.49,1,Gold,0,1.1,1,West,Changed Mind,2812.9,7
+Home,214.82,5,Platinum,1,2.3,1,South,Other,638.6,24
+Electronics,355.4,2,Platinum,0,3.5,1,Central,Other,1180.3,21
+Home,426.77,1,Platinum,0,1.6,0,Central,None,2793.0,0
+Electronics,681.33,5,Silver,1,3.8,0,West,None,279.2,0
+Beauty,613.7,2,Silver,1,4.0,0,South,None,367.8,0
+Clothing,420.49,4,Silver,1,4.9,0,West,None,572.1,0
+Clothing,987.86,6,Silver,0,1.8,1,South,Late Delivery,1826.1,18
+Clothing,645.2,2,Gold,1,4.3,0,West,None,536.4,0
+Home,313.5,7,Gold,1,3.1,1,Central,Defective,2907.4,14
+Beauty,191.6,3,Gold,0,2.5,1,Central,Other,1395.5,2
+Electronics,237.57,2,Bronze,1,1.5,0,North,None,1554.4,0
+Books,321.36,2,Platinum,0,3.9,0,East,None,815.3,0
+Electronics,244.61,6,Silver,1,1.9,0,West,None,1465.8,0
+Books,267.91,3,Silver,0,2.5,0,North,None,2019.5,0
+Electronics,356.59,7,Gold,1,1.3,1,East,Changed Mind,2278.4,6
+Beauty,256.04,5,Silver,1,4.2,0,West,None,2286.2,0
+Books,907.09,5,Silver,0,4.1,0,South,None,1775.9,0
+Home,172.21,2,Platinum,0,3.9,0,East,None,2722.6,0
+Electronics,572.06,3,Gold,1,2.2,1,Central,Changed Mind,2470.5,22
+Electronics,469.36,3,Platinum,0,1.7,0,North,None,2295.4,0
+Books,984.14,7,Bronze,0,3.6,1,East,Defective,261.3,16
+Home,200.84,6,Bronze,0,3.0,0,East,None,119.9,0
+Home,458.07,4,Bronze,0,1.7,1,Central,Changed Mind,716.1,4
+Beauty,972.52,5,Gold,1,3.7,1,West,Changed Mind,2024.2,24
+Home,878.96,6,Silver,1,5.0,0,South,None,1292.5,0
+Home,835.36,1,Gold,0,4.0,0,Central,None,1267.0,0
+Home,332.11,5,Gold,0,4.0,1,South,Wrong Item,2665.3,13
+Clothing,253.8,6,Silver,0,4.8,0,West,None,2697.1,0
+Beauty,701.78,5,Platinum,0,1.8,1,East,Wrong Item,2736.6,20
+Electronics,936.44,4,Bronze,1,3.3,0,South,None,1010.2,0
+Books,601.09,1,Platinum,1,4.9,1,North,Defective,2104.1,6
+Electronics,614.45,4,Bronze,0,1.7,1,North,Late Delivery,887.7,3
+Beauty,351.98,7,Gold,0,3.8,1,Central,Late Delivery,652.8,23
+Books,792.54,1,Bronze,0,3.3,0,West,None,635.4,0
+Beauty,268.34,2,Gold,1,3.3,0,Central,None,1092.1,0
+Home,391.31,6,Platinum,0,3.8,0,Central,None,1346.9,0
+Books,482.89,1,Gold,1,4.7,0,Central,None,2509.8,0
+Home,556.85,7,Platinum,0,4.1,0,North,None,447.7,0
+Electronics,318.17,7,Silver,1,1.2,0,North,None,2231.3,0
+Electronics,203.35,4,Silver,0,4.4,1,Central,Other,1641.2,21
+Books,649.56,5,Silver,1,1.9,0,North,None,935.0,0
+Books,359.77,1,Gold,0,2.5,0,West,None,1529.2,0
+Beauty,623.11,6,Silver,0,2.8,0,Central,None,969.8,0
+Beauty,238.93,1,Bronze,0,2.9,0,North,None,1828.6,0
+Home,533.03,3,Platinum,1,2.7,0,South,None,1358.1,0
+Books,579.33,5,Platinum,0,4.7,1,Central,Other,576.8,6
+Electronics,146.64,6,Bronze,1,3.8,1,Central,Changed Mind,438.1,12
+Beauty,402.94,6,Gold,1,3.5,0,West,None,1685.4,0
+Beauty,220.97,2,Gold,0,1.2,0,East,None,2717.0,0
+Electronics,157.04,4,Platinum,0,4.6,1,East,Changed Mind,1097.5,13
+Beauty,990.96,2,Silver,0,4.6,0,West,None,2225.7,0
+Home,390.12,6,Gold,1,4.1,0,West,None,2010.1,0
+Books,828.89,5,Gold,0,1.0,0,West,None,2801.5,0
+Electronics,329.18,1,Bronze,1,1.2,0,East,None,2480.8,0
+Books,713.35,1,Bronze,1,1.9,0,West,None,1743.2,0
+Beauty,784.21,5,Silver,0,1.5,0,North,None,2005.4,0
+Beauty,636.07,6,Gold,0,2.6,0,Central,None,2705.3,0
+Electronics,524.42,7,Gold,0,4.7,1,Central,Changed Mind,1258.6,17
+Home,470.66,1,Bronze,0,2.9,0,South,None,1047.7,0
+Clothing,413.98,7,Gold,0,1.1,1,South,Wrong Item,131.4,22
+Electronics,936.58,1,Platinum,0,2.1,1,Central,Defective,2497.0,15
+Clothing,847.56,1,Bronze,1,1.2,0,North,None,2422.8,0
+Clothing,968.52,4,Silver,1,1.1,0,East,None,402.9,0
+Home,211.87,4,Bronze,1,2.1,0,East,None,1772.9,0
+Clothing,757.78,3,Gold,0,2.1,0,North,None,1445.5,0
+Clothing,944.51,2,Silver,1,4.1,1,East,Other,444.3,27
+Home,263.11,5,Bronze,1,4.9,0,West,None,2943.6,0
+Clothing,159.85,5,Platinum,1,2.5,1,Central,Late Delivery,722.6,23
+Clothing,767.01,5,Platinum,1,2.7,0,Central,None,295.0,0
+Clothing,617.03,3,Bronze,1,4.4,0,North,None,1825.1,0
+Electronics,857.65,4,Platinum,0,2.1,0,East,None,2242.7,0
+Electronics,225.8,6,Platinum,0,1.6,0,South,None,194.1,0
+Electronics,815.74,7,Platinum,1,4.4,0,South,None,2010.3,0
+Home,281.46,7,Silver,1,1.2,0,East,None,1643.6,0
+Beauty,247.29,6,Platinum,1,3.5,0,South,None,399.5,0
+Clothing,247.84,3,Platinum,0,3.2,0,North,None,600.3,0
+Clothing,833.12,6,Platinum,0,2.4,1,North,Changed Mind,1747.1,17
+Home,698.68,5,Silver,1,2.3,0,East,None,959.4,0
+Clothing,570.76,2,Bronze,0,4.1,1,South,Changed Mind,2821.1,19
+Electronics,422.95,1,Gold,0,1.3,1,North,Late Delivery,2474.3,14
+Beauty,889.48,7,Platinum,1,1.9,1,North,Other,2952.3,22
+Books,453.2,4,Bronze,0,3.9,0,West,None,853.0,0
+Clothing,834.94,4,Platinum,0,3.2,1,West,Late Delivery,2912.2,8
+Electronics,495.22,3,Silver,1,1.5,0,North,None,1350.6,0
+Books,439.25,4,Bronze,0,4.5,0,East,None,1107.8,0
+Beauty,516.41,5,Silver,0,2.6,0,Central,None,246.0,0
+Books,371.24,7,Platinum,1,4.3,1,Central,Wrong Item,253.0,3
+Electronics,772.85,6,Platinum,0,4.2,0,North,None,2106.8,0
+Books,552.45,5,Silver,0,3.5,1,North,Changed Mind,1428.0,9
+Home,308.99,3,Gold,1,3.0,0,North,None,756.9,0
+Books,909.62,5,Silver,1,4.9,1,East,Wrong Item,1880.5,6
+Clothing,445.5,6,Platinum,1,1.6,1,West,Late Delivery,833.3,25
+Clothing,589.2,2,Silver,0,3.9,0,North,None,1775.1,0
+Home,915.82,3,Gold,1,1.8,1,North,Other,1141.7,2
+Electronics,661.81,2,Silver,0,2.4,0,South,None,2488.3,0
+Clothing,205.21,1,Gold,1,2.2,0,East,None,2480.0,0
+Beauty,945.85,2,Gold,0,4.8,0,North,None,1484.3,0
+Clothing,664.94,1,Silver,1,4.9,0,South,None,1117.4,0
+Clothing,401.42,1,Silver,1,1.7,0,Central,None,1151.4,0
+Electronics,225.34,2,Bronze,1,1.1,0,North,None,2436.6,0
+Books,814.62,3,Platinum,1,3.9,0,North,None,1051.7,0
+Clothing,658.07,6,Gold,0,2.7,1,South,Changed Mind,706.3,1
+Home,580.11,5,Bronze,1,1.4,1,East,Defective,345.6,20
+Books,904.5,5,Silver,1,3.7,1,North,Other,1453.4,12
+Beauty,809.74,6,Platinum,0,3.2,1,Central,Changed Mind,1498.2,23
+Electronics,236.51,7,Bronze,1,4.9,1,North,Wrong Item,2538.6,11
+Beauty,380.55,7,Gold,0,1.9,0,Central,None,741.6,0
+Books,323.64,1,Bronze,1,2.6,0,West,None,1204.9,0
+Books,769.55,1,Gold,1,3.2,1,West,Late Delivery,2444.4,22
+Books,130.18,3,Silver,1,4.2,0,Central,None,2488.5,0
+Beauty,612.9,4,Platinum,0,3.2,0,East,None,1215.4,0
+Books,786.21,2,Platinum,1,3.5,0,North,None,1431.5,0
+Beauty,889.09,1,Platinum,1,1.9,0,North,None,979.5,0
+Books,407.87,5,Silver,1,4.4,0,West,None,2804.4,0
+Home,839.13,3,Gold,0,2.7,0,Central,None,444.1,0
+Books,199.57,2,Silver,0,1.6,0,North,None,2807.9,0
+Beauty,861.81,3,Platinum,1,3.7,0,North,None,2083.2,0
+Clothing,214.74,2,Silver,0,1.9,0,East,None,1641.6,0
+Books,457.56,2,Silver,1,1.4,0,South,None,194.7,0
+Clothing,817.57,6,Silver,1,4.4,1,West,Defective,1479.2,1
+Home,234.93,1,Gold,1,2.8,0,West,None,1282.5,0
+Electronics,306.33,3,Bronze,1,4.0,0,South,None,567.5,0
+Home,750.03,3,Bronze,1,2.2,1,North,Other,2003.6,15
+Books,748.03,6,Silver,1,4.1,0,East,None,2916.3,0
+Clothing,677.03,5,Bronze,1,1.4,0,East,None,1730.3,0
+Clothing,724.55,5,Bronze,0,2.4,0,West,None,2172.8,0
+Beauty,588.45,7,Silver,0,4.9,1,East,Other,298.5,29
+Clothing,326.62,1,Silver,0,4.2,0,South,None,1311.2,0
+Beauty,411.13,1,Platinum,0,3.0,0,North,None,437.4,0
+Electronics,263.44,4,Bronze,0,2.4,1,South,Changed Mind,1877.1,8
+Books,917.61,6,Gold,0,4.5,0,Central,None,2821.6,0
+Beauty,625.05,5,Silver,0,3.2,0,West,None,2019.2,0
+Electronics,460.77,2,Platinum,1,4.0,0,East,None,322.7,0
+Clothing,515.81,3,Gold,1,4.0,0,Central,None,1128.5,0
+Clothing,952.56,1,Bronze,1,1.1,0,East,None,1696.9,0
+Electronics,238.02,3,Platinum,1,1.5,0,North,None,1269.3,0
+Clothing,627.61,3,Silver,0,3.6,1,North,Other,2517.6,3
+Electronics,555.3,4,Gold,0,1.6,0,North,None,2462.5,0
+Beauty,650.31,5,Silver,1,2.0,0,East,None,1874.3,0
+Beauty,116.3,1,Bronze,1,4.8,0,Central,None,1183.0,0
+Electronics,884.91,3,Gold,0,3.2,0,North,None,840.5,0
+Beauty,938.91,1,Bronze,1,4.0,0,Central,None,407.0,0
+Beauty,608.62,2,Bronze,1,3.2,1,East,Other,1129.2,13
+Beauty,726.99,4,Platinum,1,3.2,0,Central,None,1298.2,0
+Home,930.25,2,Silver,1,1.4,1,East,Other,2059.9,9
+Books,736.51,1,Gold,0,2.4,1,East,Changed Mind,2008.7,7
+Clothing,237.29,7,Bronze,1,2.1,0,West,None,303.3,0
+Home,618.66,1,Bronze,1,2.6,1,East,Late Delivery,1246.3,19
+Beauty,646.04,5,Gold,0,4.2,0,East,None,627.2,0
+Electronics,481.72,3,Bronze,0,2.5,0,South,None,554.8,0
+Beauty,762.8,3,Platinum,1,2.8,0,North,None,2499.2,0
+Books,940.93,2,Platinum,0,2.6,0,West,None,221.6,0
+Beauty,933.01,4,Platinum,1,1.4,0,West,None,1315.6,0
+Electronics,505.76,7,Platinum,1,2.8,0,West,None,587.8,0
+Books,201.91,6,Bronze,0,1.8,0,South,None,2650.1,0
+Beauty,986.36,3,Gold,1,1.7,0,East,None,1715.4,0
+Books,855.01,5,Gold,1,1.4,0,North,None,771.0,0
+Clothing,212.2,2,Gold,1,2.4,1,Central,Other,1557.0,25
+Clothing,928.76,2,Gold,1,4.0,1,East,Changed Mind,2221.3,22
+Beauty,882.91,6,Silver,0,2.1,0,South,None,2878.5,0
+Books,566.95,5,Gold,0,2.2,0,East,None,739.3,0
+Electronics,632.15,4,Silver,1,3.6,1,East,Changed Mind,2669.9,15
+Beauty,459.1,5,Silver,0,1.8,1,South,Other,2809.5,21
+Clothing,149.29,4,Platinum,1,4.6,1,West,Changed Mind,2757.6,13
+Clothing,401.68,5,Silver,1,3.1,0,West,None,1942.7,0
+Beauty,822.57,5,Bronze,1,2.8,0,North,None,1926.5,0
+Books,104.17,1,Silver,1,3.2,0,North,None,1269.3,0
+Clothing,400.15,2,Platinum,1,1.7,0,West,None,2282.0,0
+Books,458.35,5,Silver,0,3.5,1,Central,Changed Mind,1640.8,20
+Clothing,583.66,6,Bronze,1,2.5,1,East,Changed Mind,2064.6,8
+Clothing,927.87,5,Bronze,0,4.6,0,Central,None,1342.5,0
+Home,411.71,3,Bronze,0,1.7,1,East,Other,2221.3,26
+Clothing,412.26,2,Platinum,1,3.0,0,West,None,2491.0,0
+Electronics,763.75,3,Platinum,1,3.4,0,North,None,524.7,0
+Beauty,507.0,2,Gold,1,1.1,0,North,None,2515.5,0
+Beauty,302.14,3,Platinum,1,2.5,1,Central,Changed Mind,1666.9,23
+Books,507.2,5,Bronze,1,3.9,0,North,None,2549.5,0
+Clothing,226.77,5,Bronze,0,4.3,1,West,Other,1350.8,13
+Electronics,258.75,1,Platinum,1,2.3,1,Central,Changed Mind,1199.2,28
+Books,548.53,6,Silver,1,4.2,0,East,None,2753.7,0
+Home,477.03,3,Platinum,0,4.9,0,North,None,828.4,0
+Books,923.36,4,Platinum,0,4.4,1,South,Other,2548.2,24
+Books,426.15,1,Bronze,1,1.5,0,North,None,1503.7,0
+Clothing,622.53,3,Gold,0,4.0,1,East,Wrong Item,1590.9,16
+Home,669.04,3,Bronze,1,2.3,1,Central,Defective,994.6,7
+Books,111.79,1,Gold,0,5.0,0,East,None,1761.8,0
+Electronics,697.18,5,Bronze,0,2.9,0,South,None,1043.1,0
+Electronics,260.23,3,Platinum,1,1.5,1,West,Wrong Item,213.9,15
+Beauty,964.96,5,Bronze,0,3.9,0,North,None,888.8,0
+Home,233.8,1,Bronze,0,2.3,0,Central,None,118.5,0
+Home,473.16,5,Bronze,0,5.0,0,West,None,2937.2,0
+Beauty,176.81,2,Platinum,0,4.9,0,East,None,2900.7,0
+Books,997.19,4,Platinum,0,3.6,1,Central,Other,1246.0,10
+Home,551.98,7,Platinum,0,1.5,1,West,Wrong Item,2212.3,27
+Electronics,635.85,3,Platinum,1,3.7,0,Central,None,1102.8,0
+Electronics,160.37,6,Gold,1,1.4,0,South,None,2046.2,0
+Clothing,774.96,4,Gold,0,1.1,0,South,None,2435.7,0
+Home,288.92,7,Silver,1,4.3,1,North,Other,2845.6,11
+Books,908.25,5,Platinum,1,1.8,0,North,None,1260.6,0
+Beauty,284.63,3,Gold,1,2.5,0,South,None,2371.6,0
+Beauty,271.62,5,Bronze,0,4.9,0,Central,None,871.2,0
+Books,132.89,2,Platinum,1,2.3,0,South,None,2972.0,0
+Clothing,524.86,1,Silver,0,2.2,1,North,Wrong Item,174.7,6
+Beauty,608.36,3,Silver,1,4.7,0,South,None,1850.2,0
+Home,159.14,7,Silver,0,1.4,0,South,None,2012.6,0
+Clothing,797.97,7,Bronze,0,4.0,0,Central,None,2095.3,0
+Home,507.96,2,Gold,1,5.0,1,West,Late Delivery,449.1,1
+Electronics,571.95,2,Bronze,1,4.6,0,North,None,2821.7,0
+Clothing,496.69,3,Platinum,0,3.6,0,Central,None,625.4,0
+Beauty,460.69,5,Silver,1,2.3,0,South,None,1906.0,0
+Clothing,603.68,6,Bronze,1,2.0,1,South,Late Delivery,745.8,27
+Clothing,239.72,7,Bronze,1,4.3,0,West,None,990.9,0
+Clothing,263.74,7,Gold,0,4.5,0,North,None,1684.7,0
+Clothing,875.61,2,Gold,0,3.1,0,North,None,1309.9,0
+Home,951.5,4,Silver,1,2.0,1,East,Changed Mind,564.7,24
+Electronics,435.98,2,Bronze,1,1.5,0,North,None,595.7,0
+Books,343.67,6,Bronze,1,1.3,1,West,Late Delivery,1312.6,11
+Clothing,679.6,5,Gold,0,3.9,0,East,None,2296.1,0
+Beauty,467.86,5,Bronze,0,2.7,0,East,None,2704.1,0
+Clothing,122.85,4,Bronze,1,4.6,0,South,None,344.0,0
+Beauty,240.54,7,Bronze,1,4.0,1,South,Wrong Item,1240.0,25
+Home,744.38,2,Gold,1,1.8,0,North,None,390.7,0
+Beauty,693.03,5,Silver,1,3.5,1,East,Defective,148.1,26
+Books,124.39,6,Platinum,1,2.7,1,South,Changed Mind,2019.0,6
+Electronics,299.77,3,Silver,1,3.3,0,West,None,1847.1,0
+Beauty,307.97,1,Platinum,0,4.0,1,South,Other,572.8,12
+Beauty,704.7,1,Bronze,1,4.2,1,South,Wrong Item,778.1,11
+Electronics,117.74,1,Silver,0,4.4,0,East,None,168.8,0
+Books,193.7,7,Platinum,1,2.0,0,East,None,2521.3,0
+Clothing,819.92,2,Gold,1,1.1,1,Central,Changed Mind,2926.6,5
+Beauty,260.69,4,Gold,0,4.0,0,West,None,492.8,0
+Electronics,687.47,5,Silver,0,1.4,1,East,Late Delivery,771.3,21
+Home,314.36,3,Silver,0,2.3,1,North,Other,2618.4,24
+Electronics,189.5,6,Bronze,0,1.0,0,West,None,2786.7,0
+Home,318.85,3,Silver,1,3.7,0,West,None,1316.9,0
+Books,750.04,6,Bronze,0,1.7,0,East,None,246.8,0
+Clothing,870.13,7,Bronze,1,3.6,0,West,None,214.2,0
+Electronics,847.2,2,Gold,0,5.0,0,East,None,1764.5,0
+Beauty,457.47,1,Gold,1,1.3,0,South,None,1239.4,0
+Books,701.28,2,Platinum,1,1.3,0,Central,None,183.1,0
+Electronics,284.49,7,Gold,1,2.4,1,South,Late Delivery,1791.4,25
+Beauty,363.83,4,Gold,1,4.5,1,East,Defective,132.8,20
+Electronics,906.7,4,Silver,1,1.9,0,East,None,2383.4,0
+Home,111.7,7,Gold,1,2.4,0,South,None,988.7,0
+Electronics,176.96,6,Platinum,0,1.3,0,North,None,216.7,0
+Electronics,287.1,5,Silver,1,4.1,0,North,None,1806.2,0
+Electronics,123.88,5,Platinum,0,2.6,1,North,Wrong Item,1253.3,7
